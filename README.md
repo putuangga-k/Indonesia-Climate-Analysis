@@ -16,3 +16,5 @@ The dataset includes variables such as:
 - Most Wind Direction (ddd_car): The most frequent wind direction recorded in a day.
 
 Through this analysis, we aim to uncover patterns and trends in the climate data, understand the relationships between different climate parameters, and gain insights that could be valuable for various applications, from weather forecasting to climate change research.
+
+Dataset Source : https://www.kaggle.com/datasets/greegtitan/indonesia-climate/data?select=climate_data.csv
